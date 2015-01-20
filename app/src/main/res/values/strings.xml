@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sender</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_activity_fotos">FotosActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Sair</string>
+    <string name="txtCkLembrar">Lembrar minha senha</string>
+    <string name="btnEntarLogin">Login</string>
+    <string name="btnRegistrarLogin">Resgistrar-se</string>
+    <string name="txtSenhaLogin">Senha</string>
+    <string name="txtUsuarioLogin">E-mail</string>
+    <string name="txtMensagemLogin">Insira e-mail e senha</string>
+    <string name="action_search">Buscar</string>
+
+</resources>
